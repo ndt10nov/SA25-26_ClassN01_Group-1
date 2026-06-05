@@ -19,7 +19,7 @@ Hệ thống đặt món ăn qua mã QR là giải pháp chuyển đổi số ch
 ### 📱 Khách hàng:
 * **Quét mã QR:** Tự động dẫn đến trang thực đơn theo số bàn cụ thể.
 * **Xem Menu & Giá:** Hiển thị danh sách món ăn kèm hình ảnh và giá tiền cập nhật.
-* **Tìm kiếm & Bộ lọc:** Tìm món ăn nhanh theo tên hoặc theo danh mục (Món chính, Đồ uống...).
+* **Tìm kiếm & Bộ lọc:** Tìm món ăn nhanh theo tên hoặc theo danh mục (Món chính, Đồ uống...)
 * **Giỏ hàng:** Thêm/Bớt món ăn, cập nhật số lượng và xem tổng số tiền trước khi đặt.
 * **Thanh toán:** Tích hợp cổng thanh toán điện tử (Momo, VNPAY) hoặc chọn trả tiền tại quầy.
 

@@ -31,4 +31,4 @@ Hệ thống đặt món ăn qua mã QR là giải pháp chuyển đổi số ch
 
 
 ## 💎 Thiết kế UI/UX
-* 🖋️ **Figma:https://www.figma.com/design/WwXu62n93W6r0MCspBc1Ig/Food-Menu-Ordering?node-id=0-1&t=HvJ3noeCaYiOhrQW-1** 
+* 🖋️ **[Figma:https://www.figma.com/design/WwXu62n93W6r0MCspBc1Ig/Food-Menu-Ordering?node-id=0-1&t=HvJ3noeCaYiOhrQW-1](https://www.figma.com/design/WwXu62n93W6r0MCspBc1Ig/Food-Menu-Ordering?node-id=0-1&t=srx2JysNQTXdXR52-1)** 

@@ -27,7 +27,7 @@ Hệ thống đặt món ăn qua mã QR là giải pháp chuyển đổi số ch
 * **Quản lý Menu:** Cập nhật danh sách món ăn, thay đổi giá và trạng thái "Còn món/Hết món".
 * **Quản lý Đơn hàng:** Tiếp nhận yêu cầu từ các bàn theo thời gian thực.
 * **Quản lý Bàn & Mã QR:** Tạo và quản lý mã QR định danh cho từng bàn trong quán.
-* **Thống kê:** Báo cáo doanh thu theo ngày/tháng và các món ăn được yêu thích nhất.
+* **Thống kê:** Báo cáo doanh thu theo ngày/tháng và các món ăn được yêu thích nhất
 
 
 ## 💎 Thiết kế UI/UX
